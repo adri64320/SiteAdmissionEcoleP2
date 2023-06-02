@@ -1,0 +1,13 @@
+html{
+  text-align: center;
+  margin-top: 20%;
+  background-color: #F6CEC5;
+}
+
+
+.profile {
+  border-radius: 50%;
+  width: 55px;
+  height: 55px;
+  border: 2px solid black;
+}

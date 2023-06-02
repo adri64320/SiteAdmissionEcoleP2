@@ -1,0 +1,72 @@
+body{
+    background-color: #DFD9B5;
+}
+
+.gras {
+    font-weight: bold;
+}
+
+.inputtxt {
+    background-color: #999370;
+    border-radius: 5px;
+    border: 2px solid black;
+    margin: 5px;
+    color: white;
+}
+
+.button1 {
+    width: 100px;
+    background: #999370;
+    color: white;
+    border-style: outset;
+    border-color: black;
+    height: 50px;
+    font: bold 15px arial, sans-serif;
+    margin-top: 30px;
+    border-radius: 3px;
+}
+
+.button2 {
+    width: 100px;
+    background: #999370;
+    color: white;
+    border-style: outset;
+    border-color: black;
+    height: 50px;
+    font: bold 15px arial, sans-serif;
+    margin-top: 30px;
+    margin-left: 150px;
+    border-radius: 3px;
+}
+
+.button3{
+    width: 40% ;
+    max-width: 325px;
+    background: #999370;
+    color: white;
+    border-style: outset;
+    border-color: black;
+    height: 50px;
+    font: bold 15px arial, sans-serif;
+    border-radius: 3px;
+}
+
+.button1:hover{
+    opacity: 0.7;
+}
+
+.button2:hover{
+    opacity: 0.7;
+}
+
+.container{
+    margin-left: 0%;
+    margin-top: 2%;
+}
+
+.profile {
+  border-radius: 50%;
+  width: 55px;
+  height: 55px;
+  border: 2px solid black;
+}
